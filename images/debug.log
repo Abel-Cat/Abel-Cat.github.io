@@ -5,3 +5,10 @@
 [1027/180258.060:INFO:gpu_process_host.cc(1006)] [XWEB_LOG_GPU]  GpuProcessHost::DidInitialize! gpu-info {machine_info:_,gpu_driver:ANGLE (Intel)_26.20.100.8142,gl_render:ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0),gl_version:OpenGL ES 2.0.0 (ANGLE 2.1.0.unknown hash),gpu_count:2,software_rendering:0,sandboxed:0,in_process_gpu:0,gpuinfo_is_initialized:1,gpu_use_swiftshader:0}
 [1027/180259.686:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: utility
 [1027/180456.673:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1027/191441.202:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1027/191444.623:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1027/191608.945:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1027/191609.497:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1027/191613.973:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1027/191614.540:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1027/191618.596:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
